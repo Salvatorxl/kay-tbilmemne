@@ -1,14 +1,19 @@
 {
-  "name": "discord-guard-bot",
+  "name": "midwest-siteli-guard-v13",
   "version": "1.0.0",
-  "main": "beta.js",
-  "author": "Beta",
-  "license": "MIT",
+  "description": "Midwest tarafından yapılmıştır.",
+  "main": "index.js",
   "scripts": {
-    "start": "node beta.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "description": "",
+  "keywords": [],
+  "author": "Midwest",
+  "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "ark.db": "^2.7.1",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.3"
   }
 }

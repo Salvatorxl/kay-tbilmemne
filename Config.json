@@ -1,18 +1,4 @@
 {
-  "OwnerID":"", 
-  "Prefix":"", 
-  "Token":"", 
-  "Status": "",
-  "guildID":"", 
-  "logChannelID":"", 
-  "channelProtection":true,
-  "roleProtection":true,
-  "botProtection":true,
-  "banProtection":true,
-  "kickProtection":true,
-  "serverProtection":true,
-  "rightClickProtection":true, 
-  "whitelist":["", "", ""], 
-  "boosterRole":"", 
-  "jailRole":"" 
+	"token" : "OTY2Mzk0MjYxMzU4NjYxNjcz.YmBGyg.SQn0626kbVAfE48r5hNMyfkToFs",
+	"guild" : "913915757245636619"
 }
